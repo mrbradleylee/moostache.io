@@ -1,8 +1,0 @@
-{
-  "id": "acnh/mdx",
-  "title": "Powered by MDX",
-  "description": "You can write JSX and use React components within your Markdown thanks to MDX.",
-  "source": "@site/docs\\acnh\\mdx.md",
-  "permalink": "/docs/acnh/mdx",
-  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/acnh/mdx.md"
-}

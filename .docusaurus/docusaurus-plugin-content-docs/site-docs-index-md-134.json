@@ -1,9 +1,0 @@
-{
-  "id": "_index",
-  "title": "Documents",
-  "description": "Animal Crossing Reference Document",
-  "source": "@site/docs\\_index.md",
-  "permalink": "/docs/_index",
-  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/_index.md",
-  "sidebar": "someSidebar"
-}
