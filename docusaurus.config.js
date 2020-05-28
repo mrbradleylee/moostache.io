@@ -23,7 +23,7 @@ module.exports = {
           position: "left",
         },
         {
-          to: "blog",
+          to: "posts",
           label: "Posts",
           position: "left",
         },
@@ -78,13 +78,13 @@ module.exports = {
           title: "/more",
           items: [
             {
-              label: "Blog",
-              to: "blog",
+              label: "Posts",
+              to: "posts",
             },
           ],
         },
       ],
-      copyright: `© ${new Date().getFullYear()} \/\/moostache.io`,
+      copyright: `© ${new Date().getFullYear()} - moostache.io - powered by &#129430;`,
     },
   },
   presets: [
@@ -100,10 +100,11 @@ module.exports = {
             "https://github.com/facebook/docusaurus/edit/master/website/",
         },
         blog: {
-          showReadingTime: true,
+          routeBasePath: 'posts',
+          showReadingTime: false,
           // Please change this to your repo.
           editUrl:
-            "https://github.com/facebook/docusaurus/edit/master/website/blog/",
+            "#",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),

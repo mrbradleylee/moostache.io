@@ -1,71 +1,71 @@
 {
   "/": {
-    "component": "ece76bd1"
-  },
-  "/blog": {
-    "component": "a6aa9e1f",
-    "items": [
-      {
-        "content": "8f2f6515"
-      }
-    ],
-    "metadata": "bbb4ffb5"
-  },
-  "/blog/heyo": {
-    "component": "ccc49370",
-    "content": "2e3d90a4"
-  },
-  "/blog/tags": {
-    "component": "01a85c17",
-    "tags": "8be5b89e"
-  },
-  "/blog/tags/smatterings": {
-    "component": "6875c492",
-    "items": [
-      {
-        "content": "8f2f6515"
-      }
-    ],
-    "metadata": "fdf2004f"
+    "component": "component---site-src-pages-index-jsece-a18"
   },
   "/docs": {
-    "component": "1be78505",
-    "docsMetadata": "c98468e1",
-    "content": "1347edbf"
+    "component": "component---theme-doc-page-1-be-9be",
+    "docsMetadata": "docsMetadata---docsc-98-63a",
+    "content": "content---docs-134-52a"
+  },
+  "/posts": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "items": [
+      {
+        "content": "content---blog-8-f-2-657"
+      }
+    ],
+    "metadata": "metadata---posts-049-eed"
+  },
+  "/posts/heyo": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "content": "content---blog-heyo-2-e-3-b8c"
+  },
+  "/posts/tags": {
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "tags": "tags---posts-tags-1-ad-ae8"
+  },
+  "/posts/tags/smatterings": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "items": [
+      {
+        "content": "content---blog-8-f-2-657"
+      }
+    ],
+    "metadata": "metadata---posts-tags-smatterings-9-db-9f2"
   },
   "/projects": {
-    "component": "a7d7db3d"
+    "component": "component---site-src-pages-projects-jsa-7-d-bfd"
   },
   "/docs/:route": {
-    "component": "1be78505",
-    "docsMetadata": "20ac7829"
+    "component": "component---theme-doc-page-1-be-9be",
+    "docsMetadata": "docsMetadata---docs-route-20-a-f24"
   },
   "/docs/animal-crossing": {
-    "component": "17896441",
-    "content": "2a2fa5fb"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-animal-crossing-2-a-2-5a7"
   },
   "/docs/animal-crossing/diy-bug-islands": {
-    "component": "17896441",
-    "content": "95c0c03a"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-animal-crossing-diy-bug-islands-95-c-8da"
   },
   "/docs/animal-crossing/fake-art-checker": {
-    "component": "17896441",
-    "content": "da65c3da"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-animal-crossing-fake-art-checkerda-6-40e"
   },
   "/docs/animal-crossing/flower-breeding-guide": {
-    "component": "17896441",
-    "content": "867f9f37"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-animal-crossing-flower-breeding-guide-867-959"
   },
   "/docs/animal-crossing/tool-durability": {
-    "component": "17896441",
-    "content": "fa76bf13"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-animal-crossing-tool-durabilityfa-7-609"
   },
   "/docs/animal-crossing/turnip-mania": {
-    "component": "17896441",
-    "content": "5c0be54f"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-animal-crossing-turnip-mania-5-c-0-0fe"
   },
   "/docs/style-guide": {
-    "component": "17896441",
-    "content": "2dfb450f"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-style-guide-2-df-8d4"
   }
 }

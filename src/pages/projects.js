@@ -12,7 +12,7 @@ function Hello() {
           height: '50vh',
           fontSize: '20px',
         }}>
-          <h1>Look, I gotta be honest, I haven't made anything yet...</h1>
+          <h1>Look, I gotta be honest, I haven't made anything yet... Well, besides what you're looking at here.</h1>
       </div>
     </Layout>
   );

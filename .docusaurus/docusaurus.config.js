@@ -18,7 +18,7 @@ export default {
           "position": "left"
         },
         {
-          "to": "blog",
+          "to": "posts",
           "label": "Posts",
           "position": "left"
         },
@@ -60,13 +60,13 @@ export default {
           "title": "/more",
           "items": [
             {
-              "label": "Blog",
-              "to": "blog"
+              "label": "Posts",
+              "to": "posts"
             }
           ]
         }
       ],
-      "copyright": "© 2020 //moostache.io"
+      "copyright": "© 2020 - moostache.io - powered by &#129430;"
     }
   },
   "title": "moostache.io",
@@ -86,8 +86,9 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/"
         },
         "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
+          "routeBasePath": "posts",
+          "showReadingTime": false,
+          "editUrl": "#"
         },
         "theme": {
           "customCss": "C:\\Users\\bradl\\Documents\\github\\docusaurus\\moostache.io\\src\\css\\custom.css"

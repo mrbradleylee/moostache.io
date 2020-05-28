@@ -4,4 +4,4 @@ title: Documents
 sidebar-label: index 
 ---
 
-[Animal Crossing Reference Document](animal-crossing)
+[**Animal Crossing Reference Document**](animal-crossing)

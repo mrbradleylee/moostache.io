@@ -12,12 +12,12 @@ const features = [
     imageUrl: "img/responsive.svg",
     description: (
       <>
-        Moostache.io is 100% vegan, no animals were harmed in the creation of
+        We are 100% vegan, no animals were harmed in the creation of
         this website. Except maybe the can of SPAM&trade; I ate the other day.
         But really, if you made it this far, you're somewhat curious as to what
         you're reading. This is an ever evolving experiment, and a use case as I
         learn about front end development, and in particular, responsive web
-        design.
+        development. Being an experiment, things are ever changing, so reader beware...
       </>
     ),
   },

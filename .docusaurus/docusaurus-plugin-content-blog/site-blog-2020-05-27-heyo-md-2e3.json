@@ -1,16 +1,15 @@
 {
-  "permalink": "/blog/heyo",
-  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2020-05-27-heyo.md",
+  "permalink": "/posts/heyo",
+  "editUrl": "#/blog/2020-05-27-heyo.md",
   "source": "@site/blog\\2020-05-27-heyo.md",
-  "description": "Look at us all fancy and new. We had a static site before, as I was working on CSS. Now that we're moving on to JS, Markdown, and frameworks, we obviously need to keep up the experiment. This entire site is created and being managed with Docusaurus 2 alpha, through Node JS and Yarn. Part of the benefits of an SSG was so I could document my updates here as well, so there you have it.",
+  "description": "Look at us all fancy and new. We had a static site before, as I was working on CSS. Now that we're moving on to JS, Markdown, and frameworks, we obviously need to keep up the experiment.",
   "date": "2020-05-27T00:00:00.000Z",
   "tags": [
     {
       "label": "smatterings",
-      "permalink": "/blog/tags/smatterings"
+      "permalink": "/posts/tags/smatterings"
     }
   ],
-  "title": "Heyoooooooo",
-  "readingTime": 0.38,
-  "truncated": false
+  "title": "Quelle Surprise!",
+  "truncated": true
 }

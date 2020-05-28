@@ -11,32 +11,32 @@ export default [
   
 },
 {
-  path: '/blog',
-  component: ComponentCreator('/blog'),
-  exact: true,
-  
-},
-{
-  path: '/blog/heyo',
-  component: ComponentCreator('/blog/heyo'),
-  exact: true,
-  
-},
-{
-  path: '/blog/tags',
-  component: ComponentCreator('/blog/tags'),
-  exact: true,
-  
-},
-{
-  path: '/blog/tags/smatterings',
-  component: ComponentCreator('/blog/tags/smatterings'),
-  exact: true,
-  
-},
-{
   path: '/docs',
   component: ComponentCreator('/docs'),
+  exact: true,
+  
+},
+{
+  path: '/posts',
+  component: ComponentCreator('/posts'),
+  exact: true,
+  
+},
+{
+  path: '/posts/heyo',
+  component: ComponentCreator('/posts/heyo'),
+  exact: true,
+  
+},
+{
+  path: '/posts/tags',
+  component: ComponentCreator('/posts/tags'),
+  exact: true,
+  
+},
+{
+  path: '/posts/tags/smatterings',
+  component: ComponentCreator('/posts/tags/smatterings'),
   exact: true,
   
 },
