@@ -1,0 +1,10 @@
+{
+  "id": "acnh/doc1",
+  "title": "Style Guide",
+  "description": "You can write content using GitHub-flavored Markdown syntax.",
+  "source": "@site/docs\\acnh\\doc1.md",
+  "permalink": "/docs/acnh/doc1",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/acnh/doc1.md",
+  "sidebar_label": "Style Guide"
+}  "sidebar": "someSidebar"
+}

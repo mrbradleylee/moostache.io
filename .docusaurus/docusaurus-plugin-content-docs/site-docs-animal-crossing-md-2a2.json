@@ -1,0 +1,8 @@
+{
+  "id": "animal-crossing",
+  "title": "Animal Crossing",
+  "description": "Flower Breeding Guide",
+  "source": "@site/docs\\animal-crossing.md",
+  "permalink": "/docs/animal-crossing",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/animal-crossing.md"
+}

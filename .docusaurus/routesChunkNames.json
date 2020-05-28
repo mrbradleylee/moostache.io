@@ -1,0 +1,71 @@
+{
+  "/": {
+    "component": "ece76bd1"
+  },
+  "/blog": {
+    "component": "a6aa9e1f",
+    "items": [
+      {
+        "content": "8f2f6515"
+      }
+    ],
+    "metadata": "bbb4ffb5"
+  },
+  "/blog/heyo": {
+    "component": "ccc49370",
+    "content": "2e3d90a4"
+  },
+  "/blog/tags": {
+    "component": "01a85c17",
+    "tags": "8be5b89e"
+  },
+  "/blog/tags/smatterings": {
+    "component": "6875c492",
+    "items": [
+      {
+        "content": "8f2f6515"
+      }
+    ],
+    "metadata": "fdf2004f"
+  },
+  "/docs": {
+    "component": "1be78505",
+    "docsMetadata": "c98468e1",
+    "content": "1347edbf"
+  },
+  "/projects": {
+    "component": "a7d7db3d"
+  },
+  "/docs/:route": {
+    "component": "1be78505",
+    "docsMetadata": "20ac7829"
+  },
+  "/docs/animal-crossing": {
+    "component": "17896441",
+    "content": "2a2fa5fb"
+  },
+  "/docs/animal-crossing/diy-bug-islands": {
+    "component": "17896441",
+    "content": "95c0c03a"
+  },
+  "/docs/animal-crossing/fake-art-checker": {
+    "component": "17896441",
+    "content": "da65c3da"
+  },
+  "/docs/animal-crossing/flower-breeding-guide": {
+    "component": "17896441",
+    "content": "867f9f37"
+  },
+  "/docs/animal-crossing/tool-durability": {
+    "component": "17896441",
+    "content": "fa76bf13"
+  },
+  "/docs/animal-crossing/turnip-mania": {
+    "component": "17896441",
+    "content": "5c0be54f"
+  },
+  "/docs/style-guide": {
+    "component": "17896441",
+    "content": "2dfb450f"
+  }
+}

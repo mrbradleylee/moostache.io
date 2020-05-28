@@ -1,0 +1,138 @@
+/* stylelint-disable docusaurus/copyright-header */
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can restore the default Infima variables here. 
+:root {
+  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary-dark: rgb(33, 175, 144);
+  --ifm-color-primary-darker: rgb(31, 165, 136);
+  --ifm-color-primary-darkest: rgb(26, 136, 112);
+  --ifm-color-primary-light: rgb(70, 203, 174);
+  --ifm-color-primary-lighter: rgb(102, 212, 189);
+  --ifm-color-primary-lightest: rgb(146, 224, 208);
+  --ifm-code-font-size: 95%;
+}
+*/
+:root {
+  --ifm-color-primary: #ff6188;
+  --ifm-color-primary-dark: #ff3e6d;
+  --ifm-color-primary-darker: #ff2c60;
+  --ifm-color-primary-darkest: #f6003d;
+  --ifm-color-primary-light: #ff84a3;
+  --ifm-color-primary-lighter: #ff96b0;
+  --ifm-color-primary-lightest: #ffcbd8;
+  --ifm-code-font-size: 95%;
+
+  --ifm-footer-link-hover-color: rgb(171, 157, 242);
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgb(72, 77, 91);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+a {
+  transition: all 0.25s ease;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.navbar__title {
+  transition: all 0.25s ease;
+}
+
+.navbar__title:hover {
+  color: rgb(255, 97, 136);
+}
+
+.navbar__item:hover {
+  color: rgb(120, 220, 232);
+}
+
+.hero {
+  background-color: #18191a;
+}
+
+.hero__title {
+  color: rgb(255, 97, 136);
+}
+
+.hero__subtitle {
+  color: rgb(169, 220, 118);
+}
+
+.button.button--secondary.button--outline:not(.button--active):not(:hover) {
+    color: rgb(255, 255, 255); 
+}
+.button.button--secondary {
+  color: rgb(24, 25, 26);
+}
+
+.button.button--secondary:hover {
+  background-color: rgb(120, 220, 232); 
+}
+
+.button.button--secondary.button--outline {
+  border-color: rgb(120, 220, 232);
+}
+
+.header-github-link:hover {
+  opacity: 0.6;
+}
+
+.header-github-link:before {
+  content: "";
+  width: 24px;
+  height: 24px;
+  display: flex;
+  background: url("/img/cc_logos/github-dark.png");
+  background-repeat: none;
+  background-size: cover;
+  margin-right: -15px;
+}
+
+html[data-theme="dark"] .header-github-link:before {
+  content: "";
+  width: 24px;
+  height: 24px;
+  display: flex;
+  background: url("/img/cc_logos/github-light.png");
+  background-repeat: none;
+  background-size: cover;
+}
+
+.header-codepen-link:hover {
+  opacity: 0.6;
+}
+
+.header-codepen-link:before {
+  content: "";
+  width: 24px;
+  height: 24px;
+  display: flex;
+  background: url("/img/cc_logos/codepen-dark.png");
+  background-repeat: none;
+  background-size: cover;
+}
+
+html[data-theme="dark"] .header-codepen-link:before {
+  content: "";
+  width: 24px;
+  height: 24px;
+  display: flex;
+  background: url("/img/cc_logos/codepen-light.png");
+  background-repeat: none;
+  background-size: cover;
+}
+
+.footer.footer--dark {
+  --ifm-footer-background-color: rgb(36, 37, 38);
+}
