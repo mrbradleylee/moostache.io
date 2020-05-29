@@ -84,7 +84,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `© ${new Date().getFullYear()} - moostache.io - powered by &#129430;`,
+      copyright: `© ${new Date().getFullYear()} - moostache.io - powered by 🦄`,
     },
   },
   presets: [

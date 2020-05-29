@@ -1,21 +1,33 @@
-import React from 'react';
-import Layout from '@theme/Layout';
+import React from "react";
+import Layout from "@theme/Layout";
 
-function Hello() {
+function Projects() {
   return (
     <Layout title="Projects">
       <div
         style={{
-          display: 'flex',
-          justifyContent: 'center',
-          alignItems: 'center',
-          height: '50vh',
-          fontSize: '20px',
-        }}>
-          <h1>Look, I gotta be honest, I haven't made anything yet... Well, besides what you're looking at here.</h1>
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
+          height: "50vh",
+          fontSize: "20px",
+          margin: "0 5em 0 5em",
+        }}
+      >
+        <h1>
+          Look, I gotta be honest, I haven't made anything yet... Well, besides
+          what you're looking at here. As we learn js a bit more, we'll find out
+          how to properly format this page and add some projects. For now
+          though, here's a link to the{" "}
+          <a href="https://moostache.io/v1" target="_blank">
+            first version
+          </a>
+          , which was used to brush up my knowledge on HTML5 and CSS, and learn how to use it to
+          create responsive elements.
+        </h1>
       </div>
     </Layout>
   );
 }
 
-export default Hello;
+export default Projects;
