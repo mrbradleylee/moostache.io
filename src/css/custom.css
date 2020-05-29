@@ -95,7 +95,7 @@ a:hover {
   display: flex;
   background: url("/img/cc_logos/github-dark.png");
   background-repeat: none;
-  background-size: cover;
+  background-size: 24px 24px;
   margin-right: -15px;
 }
 
@@ -106,7 +106,7 @@ html[data-theme="dark"] .header-github-link:before {
   display: flex;
   background: url("/img/cc_logos/github-light.png");
   background-repeat: none;
-  background-size: cover;
+  background-size: 24px 24px;
 }
 
 .header-codepen-link:hover {
@@ -120,7 +120,7 @@ html[data-theme="dark"] .header-github-link:before {
   display: flex;
   background: url("/img/cc_logos/codepen-dark.png");
   background-repeat: none;
-  background-size: cover;
+  background-size: 24px 24px;
 }
 
 html[data-theme="dark"] .header-codepen-link:before {
@@ -130,7 +130,7 @@ html[data-theme="dark"] .header-codepen-link:before {
   display: flex;
   background: url("/img/cc_logos/codepen-light.png");
   background-repeat: none;
-  background-size: cover;
+  background-size: 24px 24px;
 }
 
 .footer.footer--dark {
