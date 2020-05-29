@@ -9,12 +9,13 @@ function Projects() {
           display: "flex",
           justifyContent: "center",
           alignItems: "center",
-          height: "50vh",
+          height: "auto",
           fontSize: "20px",
-          margin: "0 5em 0 5em",
+          margin: "0 5% 0 5%",
+          textAlign: "center",
         }}
       >
-        <h1>
+        <p>
           Look, I gotta be honest, I haven't made anything yet... Well, besides
           what you're looking at here. As we learn js a bit more, we'll find out
           how to properly format this page and add some projects. For now
@@ -24,7 +25,7 @@ function Projects() {
           </a>
           , which was used to brush up my knowledge on HTML5 and CSS, and learn how to use it to
           create responsive elements.
-        </h1>
+        </p>
       </div>
     </Layout>
   );
