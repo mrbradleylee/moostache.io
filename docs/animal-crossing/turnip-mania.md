@@ -17,6 +17,9 @@ What is the "Stalk Market?" The basic premise is simple, buy low, sell high. Sin
 ## Buying
 
 Every Sunday, Daisy Mae, the little snot nosed fellow, will visit your paradise selling turnips in stacks of 10. The prices range from 90-110 bells per stack of 10, and are tied to your island. Feel free to visit other islands if they have better prices, but note you can ONLY buy turnips on Sunday, between the island hours of 0800-1159. She scoots on the dot.
+:::warning
+If you change your system clock at all when you have turnips on your island, they will rot.
+:::
 
 ## Selling
 
