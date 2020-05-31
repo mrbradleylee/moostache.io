@@ -97,14 +97,14 @@ module.exports = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           editUrl:
-            "https://github.com/mrbradleylee/moostache.io/",
+            "#",
         },
         blog: {
           routeBasePath: 'posts',
           showReadingTime: false,
           // Please change this to your repo.
           editUrl:
-            "https://github.com/mrbradleylee/moostache.io",
+            "#",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
