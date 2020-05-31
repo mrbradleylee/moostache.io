@@ -11,6 +11,12 @@ These will be kept up to date as new information comes out.
 Last update: 31-May 2020
 :::
 
+## Quick Links
+
+<a href="https://turnipprophet.io" target="_blank"><strong>Turnip Prophet</strong></a> | <a href="https://turnip.exchange" target="_blank"><strong>Turnip Exchange</strong></a>
+
+## Sections
+
 [**Flower Breeding Guide**](animal-crossing/flower-breeding-guide)
 
 [**Turnip Mania**](animal-crossing/turnip-mania)
