@@ -17,6 +17,8 @@
   --ifm-code-font-size: 95%;
 }
 */
+
+/* changing root colors to my favorite scheme, monokai */
 :root {
   --ifm-color-primary: #ff6188;
   --ifm-color-primary-dark: #ff3e6d;
@@ -26,7 +28,7 @@
   --ifm-color-primary-lighter: #ff96b0;
   --ifm-color-primary-lightest: #ffcbd8;
   --ifm-code-font-size: 95%;
-
+/* set footer link hover color */
   --ifm-footer-link-hover-color: rgb(171, 157, 242);
 }
 
@@ -37,6 +39,8 @@
   padding: 0 var(--ifm-pre-padding);
 }
 
+/* begin custom additions */
+
 a {
   transition: all 0.25s ease;
 }
@@ -45,6 +49,7 @@ a:hover {
   text-decoration: none;
 }
 
+/* override navbar link and hover colors */
 .navbar__title {
   transition: all 0.25s ease;
 }
@@ -57,6 +62,7 @@ a:hover {
   color: rgb(120, 220, 232);
 }
 
+/* setting static colors for hero area */
 .hero {
   background-color: #18191a;
 }
@@ -69,6 +75,7 @@ a:hover {
   color: rgb(169, 220, 118);
 }
 
+/* setting static button colors for hero area */
 .button.button--secondary.button--outline:not(.button--active):not(:hover) {
     color: rgb(255, 255, 255); 
 }
@@ -84,10 +91,12 @@ a:hover {
   border-color: rgb(120, 220, 232);
 }
 
+/* style github and codepen links in navbar */
 .header-github-link:hover {
   opacity: 0.6;
 }
 
+/* add before tag for hover overlay */
 .header-github-link:before {
   content: "";
   width: 24px;
@@ -99,6 +108,7 @@ a:hover {
   margin-right: -15px;
 }
 
+/* changing bg img logo to light when theme is dark */
 html[data-theme="dark"] .header-github-link:before {
   content: "";
   width: 24px;
@@ -109,10 +119,12 @@ html[data-theme="dark"] .header-github-link:before {
   background-size: 24px 24px;
 }
 
+/* repeating bg nav changes for codepen link */
 .header-codepen-link:hover {
   opacity: 0.6;
 }
 
+/* dropping margin-right for proper alignment */
 .header-codepen-link:before {
   content: "";
   width: 24px;
@@ -123,6 +135,7 @@ html[data-theme="dark"] .header-github-link:before {
   background-size: 24px 24px;
 }
 
+/* swapping to light img for dark theme again */
 html[data-theme="dark"] .header-codepen-link:before {
   content: "";
   width: 24px;
@@ -133,6 +146,7 @@ html[data-theme="dark"] .header-codepen-link:before {
   background-size: 24px 24px;
 }
 
+/* static bg color for footer */
 .footer.footer--dark {
   --ifm-footer-background-color: rgb(36, 37, 38);
 }
