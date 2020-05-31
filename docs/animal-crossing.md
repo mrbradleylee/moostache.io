@@ -1,7 +1,7 @@
 ---
 id: animal-crossing 
 title: Animal Crossing
-sidebar-label: Animal Crossing
+sidebar_label: Index 
 ---
 
 Reference Docs for Animal Crossing: New Horizons.  

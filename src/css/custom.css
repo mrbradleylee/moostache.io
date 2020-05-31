@@ -28,6 +28,10 @@
   --ifm-color-primary-lighter: #ff96b0;
   --ifm-color-primary-lightest: #ffcbd8;
   --ifm-code-font-size: 95%;
+
+  /* set global header color */
+/*  --ifm-heading-color: #fc9867; */
+
 /* set footer link hover color */
   --ifm-footer-link-hover-color: rgb(171, 157, 242);
 }
