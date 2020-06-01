@@ -21,7 +21,7 @@ If you're extracting manually, you need to right click and unblock the archive b
 :::
 
 ### ACT GUIDE
-<a href="https://gist.github.com/ngld/e2217563bbbe1750c0917217f136687d#what-is-the-difference-between-the-ngld-overlayplugin-and-hibiyasleep-overlayplugin" target="_blank">NGLD Overlay + ACT Guide</a>
+<a href="https://gist.github.com/ngld/e2217563bbbe1750c0917217f136687d" target="_blank">NGLD Overlay + ACT Guide</a>
 
 All the ACT goodies.
 

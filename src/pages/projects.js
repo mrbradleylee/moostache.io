@@ -7,6 +7,7 @@ function Projects() {
       <div
         style={{
           display: "flex",
+          flexDirection: "column",
           justifyContent: "center",
           alignItems: "center",
           height: "auto",
@@ -25,6 +26,9 @@ function Projects() {
           </a>
           , which was used to brush up my knowledge on HTML5 and CSS, and learn how to use it to
           create responsive elements.
+        </p>
+        <p>
+          Feel free to browse my <a href="https://github.com/mrbradleylee" target="_blank">GitHub</a> and <a href="https://codepen.io/mrbradleylee" target="_blank">CodePen</a> as I use those as my playgrounds.
         </p>
       </div>
     </Layout>

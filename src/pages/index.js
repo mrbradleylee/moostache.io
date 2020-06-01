@@ -12,12 +12,13 @@ const features = [
     imageUrl: "img/responsive.svg",
     description: (
       <>
-        We are 100% vegan, no animals were harmed in the creation of
-        this website. Except maybe the can of SPAM&trade; I ate the other day.
-        But really, if you made it this far, you're somewhat curious as to what
+        We are 100% vegan, no animals were harmed in the creation of this
+        website. Except maybe the can of SPAM&trade; I ate the other day. But
+        really, if you made it this far, you're somewhat curious as to what
         you're reading. This is an ever evolving experiment, and a use case as I
         learn about front end development, and in particular, responsive web
-        development. Being an experiment, things are ever changing, so reader beware...
+        development. Being an experiment, things are ever changing, so reader
+        beware...
       </>
     ),
   },
@@ -43,17 +44,19 @@ const features = [
     imageUrl: "img/server.svg",
     description: (
       <>
-        The nerdy stuff... Again, two uses cases, the first being learning responsive web design.
-        The second is the rPi. Let's talk about the architecture: Front end
-        written completely in VSCode/neovim as I go back to my old school vi
-        roots. Versioning and commits are managed through GitHub via VSCode. New builds are deployed automagically through CI pipelines via node.js deployment
-        scripts. Back end technologies include the host machine, a Raspberry Pi
-        2 running Raspbian Stretch. We're served using nginx, with a reverse
-        proxy HTTPS redirect, and SSL certs are managed automatically through
-        certbot and letsencrypt. Both are leveraging Docker containers, managed
-        with Compose for easy configuration changes. To keep track of general
-        server health, a TIG stack (Telegraf, InfluxDB, Grafana) is also being
-        managed through Docker Compose.
+        The nerdy stuff... Again, two uses cases, the first being learning
+        responsive web design. The second is the rPi. Let's talk about the
+        architecture: Front end written completely in VSCode/neovim as I go back
+        to my old school vi roots. Versioning and commits are managed through
+        GitHub via VSCode. New builds are deployed automagically through CI
+        pipelines via node.js deployment scripts. Back end technologies include
+        the host machine, a Raspberry Pi 2 running Raspbian Stretch. We're
+        served using nginx, with a reverse proxy HTTPS redirect, and SSL certs
+        are managed automatically through certbot and letsencrypt. Both are
+        leveraging Docker containers, managed with Compose for easy
+        configuration changes. To keep track of general server health, a TIG
+        stack (Telegraf, InfluxDB, Grafana) is also being managed through Docker
+        Compose.
       </>
     ),
   },

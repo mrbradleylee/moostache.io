@@ -1,5 +1,5 @@
 module.exports = {
-  title: "moostache.io",
+  title: "ಠ෴ಠ.io",
   tagline: "An experiment in responsive web development.",
   url: "https://moostache.io",
   baseUrl: "/",

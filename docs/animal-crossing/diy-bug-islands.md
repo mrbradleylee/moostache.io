@@ -34,6 +34,8 @@ Controlling the spawns means almost razing the island. Pick all the flowers, bre
 
 Now to lay the trap. It's simple, draw an 'H' somewhere with your shovel. When you see a tarantula or scorpion, as you approach it, it'll go up on its legs. If you move at all during this point, it'll start chasing you, and that's the goal. Have it chase you into your clever trap, and jump through, like below. It'll get stuck on the other side, catch it, and profit.
 
+![ninja trap](https://i.imgur.com/CYfwltF.gif)
+
 At any point in time, you'll have a minimum of 2 bugs on your island. If it's a water bug, rip you, you have to catch it. Again, tiger beetles and roaches can just be scattered by running through em, be sure to check your coconut trees for Atlas moths as well.
 
 I'll be sure to keep this updated as the months change, currently, in May, there are scorpions on the Northern Hemisphere, and water bugs are going to be a pain the whole summer...
