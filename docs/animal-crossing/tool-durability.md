@@ -1,10 +1,10 @@
 ---
-id: tool-durability 
-title: Tool Durability 
-sidebar-label: Tool Durability 
+id: tool-durability
+title: Tool Durability
+sidebar-label: Tool Durability
 ---
 
-***All your tools are going to break, see how long each type of tool will last and decide if upgrading them is right for you.***
+**_All your tools are going to break, see how long each type of tool will last and decide if upgrading them is right for you._**
 
 ## Types Of Tools
 
@@ -12,7 +12,7 @@ At this point, you're probably already familiar with all the different tools in 
 
 ## What Consumes Durability?
 
-Different actions consume durability in different ways for each tool, for example, hitting a rock with a flimsy axe consumes one durability, but rocks interact with tools differently than trees. If you hit a rock with one durability left on an axe, that axe won't break until the rock "timer" is up. Where as if you hit a tree with a one durability axe, it will break on the first hit. Any other activity other than what's listed will not consume durability, and brief overview of what consumes durability for each tools is below. 
+Different actions consume durability in different ways for each tool, for example, hitting a rock with a flimsy axe consumes one durability, but rocks interact with tools differently than trees. If you hit a rock with one durability left on an axe, that axe won't break until the rock "timer" is up. Where as if you hit a tree with a one durability axe, it will break on the first hit. Any other activity other than what's listed will not consume durability, and brief overview of what consumes durability for each tools is below.
 
 :::note
 Vaulting poles, ladders, and wands do NOT break.
