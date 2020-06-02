@@ -7,8 +7,8 @@ sidebar_label: Index
 Reference Docs for Animal Crossing: New Horizons.  
 These will be kept up to date as new information comes out.
 
-:::note
-Last update: 31-May 2020
+:::tip
+Check POSTS for the June 1 update to see what's new for the Northern Hemisphere.
 :::
 
 ## Quick Links
