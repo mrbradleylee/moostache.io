@@ -1,7 +1,7 @@
 ---
 id: diy-bug-islands
 title: DIY Bug Islands
-sidebar-label: DIY Bug Islands
+sidebar_label: DIY Bug Islands
 ---
 
 **_Got an excess of Nook Miles? Turn those Nook Miles into bells with some DIY bug islands. Strap in, this is a long one!!_**

@@ -1,7 +1,7 @@
 ---
 id: turnip-mania
 title: Turnip Mania
-sidebar-label: Turnip Mania
+sidebar_label: Turnip Mania
 ---
 
 **_So you want to be a bellionaire? Tips for turnip efficiency for the uninstantiated. Learn how to get rich quick by taking advantage of the "Stalk Market."_**

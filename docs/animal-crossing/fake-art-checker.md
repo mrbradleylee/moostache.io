@@ -1,7 +1,7 @@
 ---
 id: fake-art-checker
 title: Fake Art Checker
-sidebar-label: Fake Art Checker
+sidebar_label: Fake Art Checker
 ---
 
 **_Here are a few links to sites I use to check fake art. Eventually I'll work on aggregating the data here. They're listed in the order I find them useful:_**

@@ -1,19 +1,13 @@
 ---
-title: What's New In June (hint, SHARKS)
-author: moostache
-author_title: wishes he had a stache...
-author_url: https://moostache.io
-tags: [smatterings, animal-crossing]
+id: new-this-month
+title: What's New This Month (Jun 2020)
+sidebar_label: New This Month
 ---
 
-June is bringing some good stuff to us on the Northern Hemisphere, namely, SHARKS.
-Time to get them fishing poles out! June also brings some new bugs as well. Keep an eye out on your beach for some summer shells as well, used to make some fancy new things.
-
-Nook's Cranny now has some new items in an extra slot, and make sure to check out the seasonal items in your terminal.
-
-**_ &darr;&darr;&darr; New critter tables below &darr;&darr;&darr; _**
-
-<!-- truncate -->
+We'll keep this updated as new things come out, and start keeping an archive as well.
+:::note
+Current month - June 2020 - Northern Hemisphere only
+:::
 
 | FISH             | LOCATION | SIZE            | TIME                   |
 | ---------------- | -------- | --------------- | ---------------------- |

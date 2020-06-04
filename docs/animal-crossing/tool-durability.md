@@ -1,7 +1,7 @@
 ---
 id: tool-durability
 title: Tool Durability
-sidebar-label: Tool Durability
+sidebar_label: Tool Durability
 ---
 
 **_All your tools are going to break, see how long each type of tool will last and decide if upgrading them is right for you._**
