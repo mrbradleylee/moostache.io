@@ -21,7 +21,7 @@ Every Sunday, Daisy Mae, the little snot nosed fellow, will visit your paradise 
 If you change your system clock at all when you have turnips on your island, they will rot.
 :::
 
-## selling
+## Selling
 
 Turnips are sold at Nook's Cranny, by the sniveling little raccoons. They'll only buy turnips Monday thru Saturday, at varying prices that are set each day from M-F from 0800-1159, and change again from 1200-2200. These follow set patterns per island, which we'll get to in a bit. Turnips will rot at 0500 the following Sunday, so be sure to sell them by 2200 Saturday the week you buy them. Rotten turnips aren't entirely useless, but since we're here to make money, don't let em rot. Also, if you change your system clock, rot rot rot.
 
