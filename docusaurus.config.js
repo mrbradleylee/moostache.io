@@ -7,6 +7,9 @@ module.exports = {
   organizationName: "moostache.io", // Usually your GitHub org/user name.
   projectName: "moostache.io", // Usually your repo name.
   themeConfig: {
+    prism: {
+      theme: require('prism-react-renderer/themes/oceanicNext')
+    },
     //disableDarkMode: true,
     defaultDarkMode: false,
     navbar: {
