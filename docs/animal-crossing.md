@@ -7,7 +7,7 @@ sidebar_label: Index
 Reference Docs for Animal Crossing: New Horizons.  
 These will be kept up to date as new information comes out.
 
-:::note
+:::tip
 Check [New This Month](animal-crossing/new-this-month) for the June 1 update to see what's new for the Northern Hemisphere.
 :::
 
