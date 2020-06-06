@@ -49,7 +49,7 @@ module.exports = {
       style: "dark",
       links: [
         {
-          title: "/findme",
+          title: "🕵 Find Me",
           items: [
             {
               label: "GitHub",
@@ -61,21 +61,21 @@ module.exports = {
             },
           ],
         },
-//        {
-//          title: "Community",
-//          items: [
-//            {
-//              label: "Discord",
-//              href: "https://discordapp.com/invite/docusaurus",
-//            },
-//            {
-//              label: "Twitter",
-//              href: "https://twitter.com/docusaurus",
-//            },
-//          ],
-//        },
         {
-          title: "/more",
+          title: "😍 Resources",
+          items: [
+            {
+              label: "FreeCodeCamp",
+              href: "https://freecodecamp.org",
+            },
+            {
+              label: "VSCode",
+              href: "https://code.visualstudio.com",
+            },
+          ],
+        },
+        {
+          title: "📚 More",
           items: [
             {
               label: "Posts",
@@ -84,7 +84,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `© ${new Date().getFullYear()} - moostache.io - powered by 🦄`,
+      copyright: `© ${new Date().getFullYear()} - moostache.io - powered by 🌈 and 🦄`,
     },
   },
   presets: [

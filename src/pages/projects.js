@@ -11,8 +11,10 @@ function Projects() {
           justifyContent: "center",
           alignItems: "center",
           height: "auto",
+          width: "90%",
+          padding: "10% 0",
           fontSize: "20px",
-          margin: "0 5% 0 5%",
+          margin: "auto",
           textAlign: "center",
         }}
       >
@@ -28,7 +30,10 @@ function Projects() {
           create responsive elements.
         </p>
         <p>
-          Feel free to browse my <a href="https://github.com/mrbradleylee" target="_blank">GitHub</a> and <a href="https://codepen.io/mrbradleylee" target="_blank">CodePen</a> as I use those as my playgrounds.
+          There's also documentation for some fun stuff in the Docs link above, like an Animal Crossing Reference document, and documentation of different exercises that would otherwise clutter my CodePen.
+        </p>
+        <p>
+          Speaking of, feel free to browse my <a href="https://github.com/mrbradleylee" target="_blank">GitHub</a> and <a href="https://codepen.io/mrbradleylee" target="_blank">CodePen</a> as I use those as my playgrounds.
         </p>
       </div>
     </Layout>

@@ -3,6 +3,7 @@ id: _index
 title: Documents
 sidebar_label: Documents
 ---
+## Game Stuff
 
 ### [**Animal Crossing Reference Document**](animal-crossing)
 
@@ -17,3 +18,9 @@ Last update: [1-June 2020](animal-crossing/new-this-month)
 
 Raid resources for FFXIV.
 No longer maintained.
+
+## Development Stuff
+
+### [**Javascript Reference**](dev/js)
+
+Collection of exercise results and test functions.
