@@ -4,6 +4,8 @@ title: Javascript Exercise Reference
 sidebar_label: Javascript 
 ---
 
+**_Documentation of completed exercises from FCC. Kept as a reference for basics._**
+
 ## Data Structures and Manipulation
 
 ### Find longest word
