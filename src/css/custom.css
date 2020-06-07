@@ -150,6 +150,11 @@ html[data-theme="dark"] .header-codepen-link:before {
   background-size: 24px 24px;
 }
 
+/* set custom h3 color for homepage features */
+.row .col.col--4 h3 {
+  color: rgb(252, 152, 103);
+}
+
 /* static bg color for footer */
 .footer.footer--dark {
   --ifm-footer-background-color: rgb(36, 37, 38);

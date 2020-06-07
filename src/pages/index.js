@@ -8,7 +8,7 @@ import styles from "./styles.module.css";
 
 const features = [
   {
-    title: <>What?</>,
+    title: <>&lt;/ What &gt;</>,
     imageUrl: "img/responsive.svg",
     description: (
       <>
@@ -23,7 +23,7 @@ const features = [
     ),
   },
   {
-    title: <>Why?</>,
+    title: <>&lt;/ Why &gt;</>,
     imageUrl: "img/dev.svg",
     description: (
       <>
@@ -32,15 +32,15 @@ const features = [
         I always found myself creating docs to store links for resources that I
         need, might as well make a project out of it to document progress and
         expand the junk in my brain. This site initially started as a Wordpress
-        site to host random information as I learned about Docker, but as I'm
-        learning evolved into what we are now. From Wordpress, we went to
+        site to host random information as I learned more about Docker, but in
+        the process, evolved into what we are now. From Wordpress, we went to
         hosting static pages built with HTML/CSS/love, to playing with static
         site generators as we move on to JavaScript.
       </>
     ),
   },
   {
-    title: <>How?</>,
+    title: <>&lt;/ How &gt;</>,
     imageUrl: "img/server.svg",
     description: (
       <>
@@ -49,14 +49,13 @@ const features = [
         architecture: Front end written completely in VSCode/neovim as I go back
         to my old school vi roots. Versioning and commits are managed through
         GitHub via VSCode. New builds are deployed automagically through CI
-        pipelines via node.js deployment scripts. Back end technologies include
-        the host machine, a Raspberry Pi 2 running Raspbian Stretch. We're
-        served using nginx, with a reverse proxy HTTPS redirect, and SSL certs
-        are managed automatically through certbot and letsencrypt. Both are
-        leveraging Docker containers, managed with Compose for easy
-        configuration changes. To keep track of general server health, a TIG
-        stack (Telegraf, InfluxDB, Grafana) is also being managed through Docker
-        Compose.
+        pipelines. Back end technologies include the host machine, a Raspberry
+        Pi 2 running Raspbian Stretch. We're served using nginx, with a reverse
+        proxy HTTPS redirect, and SSL certs are managed automatically through
+        certbot and letsencrypt. Both are leveraging Docker containers, managed
+        with Compose for easy configuration changes. To keep track of general
+        server health, a TIG stack (Telegraf, InfluxDB, Grafana) is also being
+        managed through Docker Compose.
       </>
     ),
   },
