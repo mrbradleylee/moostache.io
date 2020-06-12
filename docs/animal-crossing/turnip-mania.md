@@ -3,6 +3,9 @@ id: turnip-mania
 title: Turnip Mania
 sidebar_label: Turnip Mania
 ---
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
+<img alt="Flower Breeding Guide" src={useBaseUrl('img/docs/acnh/turnips.jpg')} />
 
 **_So you want to be a bellionaire? Tips for turnip efficiency for the uninstantiated. Learn how to get rich quick by taking advantage of the "Stalk Market."_**
 

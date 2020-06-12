@@ -3,6 +3,9 @@ id: flower-breeding-guide
 title: Flower Breeding Guide
 sidebar_label: Flower Breeding Guide
 ---
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
+<img alt="Flower Breeding Guide" src={useBaseUrl('img/docs/acnh/flowers.jpg')} />
 
 **_Want to breed flowers and get those fancy colors? Here's what colors make what for all the different flower types. If you prefer visual aids, the [infographic](#infographic) can be found at the end of the guide._**
 
@@ -79,6 +82,13 @@ Rellow + Blue = Rellow(Red) + Red = Purple(Rellow) + Rellow = Purple;
 Red + White = Pink;
 White + White = Blue;
 Blue + Blue = Purple;
+```
+
+## Lily Of The Valley
+
+```js
+5 star island rating;
+Also unlocks the Gold Watering Can recipe from Isabelle, used for the Gold rose.
 ```
 
 ## Infographic
