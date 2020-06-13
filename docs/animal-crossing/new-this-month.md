@@ -3,6 +3,9 @@ id: new-this-month
 title: What's New This Month (Jun 2020)
 sidebar_label: New This Month
 ---
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
+<img alt="Flower Breeding Guide" src={useBaseUrl('img/posts/acnh_june.jpg')} />
 
 **_We'll keep this updated as new things come out, and start keeping an archive as well._**
 :::important
