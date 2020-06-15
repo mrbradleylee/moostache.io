@@ -68,12 +68,17 @@ Orange + Orange = Purple;
 ```
 
 ## Pansy
+:::note
+Orange pansies are red outside and yellow in the center :)
+:::
 
 ```js
-Red + Yellow = Rellow;
+Red + Yellow = Orange;
 White + White = Blue;
 Red + Blue = Red;
-Rellow + Blue = Rellow(Red) + Red = Purple(Rellow) + Rellow = Purple;
+Orange + Blue = Orange;
+(Red) + Red = Purple;
+(Orange) + Orange = Purple;
 ```
 
 ## Windflower
