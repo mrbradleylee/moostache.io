@@ -11,7 +11,7 @@ module.exports = {
       theme: require('prism-react-renderer/themes/oceanicNext')
     },
     //disableDarkMode: true,
-    defaultDarkMode: false,
+    //defaultDarkMode: false, removing dueo to deprecation
     navbar: {
       title: "moostache.io",
       hideOnScroll: true,
@@ -19,7 +19,7 @@ module.exports = {
         alt: "A glorious mustache",
         src: "img/logo.svg",
       },
-      links: [
+      items: [
         {
           to: "projects",
           label: "Projects",
@@ -96,7 +96,7 @@ module.exports = {
       {
         docs: {
           // It is recommended to set document id as docs home page (`docs/` path).
-          homePageId: "_index",
+          // homePageId: "_index", -> removed due to deprecation
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           editUrl:

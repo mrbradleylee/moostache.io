@@ -49,11 +49,11 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 ⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅ ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅ ⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
-- Unordered list can use asterisks
+-   Unordered list can use asterisks
 
-* Or minuses
+*   Or minuses
 
-- Or pluses
+-   Or pluses
 
 ---
 
@@ -65,7 +65,9 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 [I'm a reference-style link][arbitrary case-insensitive reference text]
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+<!-- [I'm a relative reference to a repository file](../blob/master/LICENSE) -->
+
+[I'm a relative reference to a repository file](#)
 
 [You can use numbers for reference-style link definitions][1]
 
@@ -112,7 +114,7 @@ But let's throw in a <b>tag</b>.
 
 ```js {2}
 function highlightMe() {
-  console.log("This line can be highlighted!");
+    console.log("This line can be highlighted!");
 }
 ```
 
