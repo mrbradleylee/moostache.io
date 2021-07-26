@@ -30,7 +30,3 @@ $ yarn start
 $ yarn build
 
 ```
-
-```
-
-```
