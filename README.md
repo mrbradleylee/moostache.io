@@ -2,6 +2,10 @@
 
 moostache.io built using [Docusaurus 2](https://v2.docusaurus.io/)
 
+## Current Status
+
+not deployed.
+
 ### Installation
 
 ```
