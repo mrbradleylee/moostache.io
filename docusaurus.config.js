@@ -6,7 +6,6 @@ module.exports = {
   favicon: "img/favicon.ico",
   organizationName: "mrbradleylee", // Usually your GitHub org/user name.
   projectName: "moostache.io", // Usually your repo name.
-  deploymentBranch: "gh-pages",
   trailingSlash: false,
   themeConfig: {
     prism: {
