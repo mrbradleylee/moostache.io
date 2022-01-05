@@ -1,12 +1,11 @@
-# Website
+# Website [DEPRECATED]
 
 moostache.io built using [Docusaurus 2](https://v2.docusaurus.io/)
+No longer maintained as of 2020.
 
 ### Current Status
-**[DEPRECATED]**
 
-Deployed here in GitHub Pages.
-No longer maintained since 2020.
+Deployed here in GitHub Pages for reference purposes.
 
 ### Installation
 
