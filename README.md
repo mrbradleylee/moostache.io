@@ -4,26 +4,19 @@ moostache.io built using [Docusaurus 2](https://v2.docusaurus.io/)
 
 ### Current Status
 
-not deployed.
+Deployed here in GitHub Pages.
 
 ### Installation
 
 ```
-$ yarn
-```
-
-If needed (yarn install and pull deps)
-
-```
-$ npm install --global yarn
-$ yarn install
+npm install
 ```
 
 ### Local Development
 
 ```
 
-$ yarn start
+npm run start
 
 ```
 
@@ -31,6 +24,6 @@ $ yarn start
 
 ```
 
-$ yarn build
+npm run build
 
 ```
