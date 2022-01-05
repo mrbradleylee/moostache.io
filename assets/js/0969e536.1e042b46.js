@@ -1,0 +1,1 @@
+(self.webpackChunkmoostache_info=self.webpackChunkmoostache_info||[]).push([[565],{586:function(o){"use strict";o.exports=JSON.parse('{"permalink":"/moostache.io/posts","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
