@@ -1,14 +1,16 @@
 module.exports = {
   title: "ಠ෴ಠ.io",
   tagline: "An experiment in responsive web development.",
-  url: "https://moostache.io",
-  baseUrl: "/",
+  url: "https://mrbradleylee.github.io/",
+  baseUrl: "/moostache.io/",
   favicon: "img/favicon.ico",
-  organizationName: "moostache.io", // Usually your GitHub org/user name.
+  organizationName: "mrbradleylee", // Usually your GitHub org/user name.
   projectName: "moostache.io", // Usually your repo name.
+  deploymentBranch: "gh-pages",
+  trailingSlash: false,
   themeConfig: {
     prism: {
-      theme: require('prism-react-renderer/themes/oceanicNext')
+      theme: require("prism-react-renderer/themes/oceanicNext"),
     },
     //disableDarkMode: true,
     //defaultDarkMode: false, removing dueo to deprecation
@@ -60,7 +62,7 @@ module.exports = {
             },
             {
               label: "CodePen",
-              href: "https://codepen.io/mrbradleylee"
+              href: "https://codepen.io/mrbradleylee",
             },
           ],
         },
@@ -99,15 +101,13 @@ module.exports = {
           // homePageId: "_index", -> removed due to deprecation
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl:
-            "#",
+          editUrl: "https://github.com/mrbradleylee/moostache.io/",
         },
         blog: {
-          routeBasePath: 'posts',
-          showReadingTime: false,
+          routeBasePath: "posts",
+          showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            "#",
+          editUrl: "https://github.com/mrbradleylee/moostache.io/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
