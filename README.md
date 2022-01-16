@@ -24,3 +24,9 @@ npm run start
 ```
 npm run build
 ```
+
+### Deploy
+
+```
+GIT_USER=<username> npm run deploy
+```
