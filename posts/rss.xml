@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>ಠ෴ಠ.io Blog</title>
         <link>https://mrbradleylee.github.io/moostache.io/posts</link>
@@ -10,30 +10,34 @@
         <item>
             <title><![CDATA[What's New In June]]></title>
             <link>https://mrbradleylee.github.io/moostache.io/posts/2020/06/01/acnh-june</link>
-            <guid>What's New In June</guid>
+            <guid>/2020/06/01/acnh-june</guid>
             <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[June is bringing some good stuff to us on the Northern Hemisphere, namely, SHARKS!]]></description>
         </item>
         <item>
             <title><![CDATA[Some "CI" fixes]]></title>
             <link>https://mrbradleylee.github.io/moostache.io/posts/2020/05/31/cicd</link>
-            <guid>Some "CI" fixes</guid>
+            <guid>/2020/05/31/cicd</guid>
             <pubDate>Sun, 31 May 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Today we implemented some changes to our deployment. Since everything is developed and hosted locally here, the Drone implementation was pretty heavy and overkill for what we're doing. It was an awesome learning experience, but was also a lot of overhead and management. For a while, I just built locally and deployed through SFTP before that, basically making GitHub just a repo. It was all well and good from a Wordpress perspective (maybe we'll go back to a CMS later...), but on static pages, I wanted to be able to deploy changes faster. I work a lot with this at an enterprise scale for a living, but implementing at this tiny scale has been super interesting as well. Can't say I've fully figured it out yet, but I offloaded the build process to the rPi to see how it would handle it, and while it takes a bit longer, having it be hands off is also pretty nice. Notice I put "CI" in quotes, cause the deployment now requires me to ssh to the server and execute a script. I haven't been too successful finding a lightweight solution, but I might look into some task runners in Node later. For now, we pull/build/rsync and it seems to be working well!]]></description>
+            <content:encoded><![CDATA[<p>Today we implemented some changes to our deployment. Since everything is developed and hosted locally here, the Drone implementation was pretty heavy and overkill for what we&#x27;re doing. It was an awesome learning experience, but was also a lot of overhead and management. For a while, I just built locally and deployed through SFTP before that, basically making GitHub just a repo. It was all well and good from a Wordpress perspective (maybe we&#x27;ll go back to a CMS later...), but on static pages, I wanted to be able to deploy changes faster. I work a lot with this at an enterprise scale for a living, but implementing at this tiny scale has been super interesting as well. Can&#x27;t say I&#x27;ve fully figured it out yet, but I offloaded the build process to the rPi to see how it would handle it, and while it takes a bit longer, having it be hands off is also pretty nice. Notice I put &quot;CI&quot; in quotes, cause the deployment now requires me to ssh to the server and execute a script. I haven&#x27;t been too successful finding a lightweight solution, but I might look into some task runners in Node later. For now, we pull/build/rsync and it seems to be working well!</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Oh look, updates]]></title>
             <link>https://mrbradleylee.github.io/moostache.io/posts/2020/05/28/projects</link>
-            <guid>Oh look, updates</guid>
+            <guid>/2020/05/28/projects</guid>
             <pubDate>Thu, 28 May 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Working on making some updates and learning as much as we can before diving in the deep end. In the process of learning how to put some projects together, we finally hit the proverbial brick wall, where it's time to start the more official learning again. CodePen will be the playground for now, until we reach the point where we have to start making stuff in JS, which we can do here, obv!]]></description>
+            <content:encoded><![CDATA[<p>Working on making some updates and learning as much as we can before diving in the deep end. In the process of learning how to put some projects together, we finally hit the proverbial brick wall, where it&#x27;s time to start the more official learning again. CodePen will be the playground for now, until we reach the point where we have to start making stuff in JS, which we can do here, obv!</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Quelle Surprise!]]></title>
             <link>https://mrbradleylee.github.io/moostache.io/posts/2020/05/27/heyo</link>
-            <guid>Quelle Surprise!</guid>
+            <guid>/2020/05/27/heyo</guid>
             <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Look at us all fancy and new. We had a static site before, as I was working on CSS. Now that we're moving on to JS, Markdown, and frameworks, we obviously need to keep up the experiment.]]></description>
+            <content:encoded><![CDATA[<p>Look at us all fancy and new. We had a static site before, as I was working on CSS. Now that we&#x27;re moving on to JS, Markdown, and frameworks, we obviously need to keep up the experiment.</p><p>A few more details on what we actually changed here, and some documentation for myself as to why I&#x27;m making these changes.</p><p>This entire site is created and being managed with <a href="https://v2.docusaurus.io/" target="_blank"><strong>Docusaurus 2 alpha</strong></a>, through Node JS and Yarn.
+Again, as I move on from straight CSS to JS and all that comes along with it, gaining exposure to things like Node and frameworks is critical. Even in a small page static site, I already felt the pain of managing multiple static pages and the common elements across them. In the first version of this site, built entirely on HTML and CSS we started experimenting with some static generators. Since the basis was super lightweight, I settled on Sergey just for some HTML replacement sections, including the <!-- -->&lt;<!-- -->header<!-- -->&gt;<!-- --> <!-- -->&lt;<!-- -->nav<!-- -->&gt;<!-- --> and <!-- -->&lt;<!-- -->footer<!-- -->&gt;<!-- --> sections. This very quickly evolved (or devolved) into what we&#x27;re looking at today.</p>]]></content:encoded>
         </item>
     </channel>
 </rss>

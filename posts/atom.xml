@@ -9,30 +9,50 @@
     <icon>https://mrbradleylee.github.io/moostache.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[What's New In June]]></title>
-        <id>What's New In June</id>
+        <id>/2020/06/01/acnh-june</id>
         <link href="https://mrbradleylee.github.io/moostache.io/posts/2020/06/01/acnh-june"/>
         <updated>2020-06-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[June is bringing some good stuff to us on the Northern Hemisphere, namely, SHARKS!]]></summary>
+        <author>
+            <name>moostache</name>
+            <uri>https://moostache.io</uri>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Some "CI" fixes]]></title>
-        <id>Some "CI" fixes</id>
+        <id>/2020/05/31/cicd</id>
         <link href="https://mrbradleylee.github.io/moostache.io/posts/2020/05/31/cicd"/>
         <updated>2020-05-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Today we implemented some changes to our deployment. Since everything is developed and hosted locally here, the Drone implementation was pretty heavy and overkill for what we're doing. It was an awesome learning experience, but was also a lot of overhead and management. For a while, I just built locally and deployed through SFTP before that, basically making GitHub just a repo. It was all well and good from a Wordpress perspective (maybe we'll go back to a CMS later...), but on static pages, I wanted to be able to deploy changes faster. I work a lot with this at an enterprise scale for a living, but implementing at this tiny scale has been super interesting as well. Can't say I've fully figured it out yet, but I offloaded the build process to the rPi to see how it would handle it, and while it takes a bit longer, having it be hands off is also pretty nice. Notice I put "CI" in quotes, cause the deployment now requires me to ssh to the server and execute a script. I haven't been too successful finding a lightweight solution, but I might look into some task runners in Node later. For now, we pull/build/rsync and it seems to be working well!]]></summary>
+        <content type="html"><![CDATA[<p>Today we implemented some changes to our deployment. Since everything is developed and hosted locally here, the Drone implementation was pretty heavy and overkill for what we&#x27;re doing. It was an awesome learning experience, but was also a lot of overhead and management. For a while, I just built locally and deployed through SFTP before that, basically making GitHub just a repo. It was all well and good from a Wordpress perspective (maybe we&#x27;ll go back to a CMS later...), but on static pages, I wanted to be able to deploy changes faster. I work a lot with this at an enterprise scale for a living, but implementing at this tiny scale has been super interesting as well. Can&#x27;t say I&#x27;ve fully figured it out yet, but I offloaded the build process to the rPi to see how it would handle it, and while it takes a bit longer, having it be hands off is also pretty nice. Notice I put &quot;CI&quot; in quotes, cause the deployment now requires me to ssh to the server and execute a script. I haven&#x27;t been too successful finding a lightweight solution, but I might look into some task runners in Node later. For now, we pull/build/rsync and it seems to be working well!</p>]]></content>
+        <author>
+            <name>moostache</name>
+            <uri>https://moostache.io</uri>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Oh look, updates]]></title>
-        <id>Oh look, updates</id>
+        <id>/2020/05/28/projects</id>
         <link href="https://mrbradleylee.github.io/moostache.io/posts/2020/05/28/projects"/>
         <updated>2020-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Working on making some updates and learning as much as we can before diving in the deep end. In the process of learning how to put some projects together, we finally hit the proverbial brick wall, where it's time to start the more official learning again. CodePen will be the playground for now, until we reach the point where we have to start making stuff in JS, which we can do here, obv!]]></summary>
+        <content type="html"><![CDATA[<p>Working on making some updates and learning as much as we can before diving in the deep end. In the process of learning how to put some projects together, we finally hit the proverbial brick wall, where it&#x27;s time to start the more official learning again. CodePen will be the playground for now, until we reach the point where we have to start making stuff in JS, which we can do here, obv!</p>]]></content>
+        <author>
+            <name>moostache</name>
+            <uri>https://moostache.io</uri>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Quelle Surprise!]]></title>
-        <id>Quelle Surprise!</id>
+        <id>/2020/05/27/heyo</id>
         <link href="https://mrbradleylee.github.io/moostache.io/posts/2020/05/27/heyo"/>
         <updated>2020-05-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Look at us all fancy and new. We had a static site before, as I was working on CSS. Now that we're moving on to JS, Markdown, and frameworks, we obviously need to keep up the experiment.]]></summary>
+        <content type="html"><![CDATA[<p>Look at us all fancy and new. We had a static site before, as I was working on CSS. Now that we&#x27;re moving on to JS, Markdown, and frameworks, we obviously need to keep up the experiment.</p><p>A few more details on what we actually changed here, and some documentation for myself as to why I&#x27;m making these changes.</p><p>This entire site is created and being managed with <a href="https://v2.docusaurus.io/" target="_blank"><strong>Docusaurus 2 alpha</strong></a>, through Node JS and Yarn.
+Again, as I move on from straight CSS to JS and all that comes along with it, gaining exposure to things like Node and frameworks is critical. Even in a small page static site, I already felt the pain of managing multiple static pages and the common elements across them. In the first version of this site, built entirely on HTML and CSS we started experimenting with some static generators. Since the basis was super lightweight, I settled on Sergey just for some HTML replacement sections, including the <!-- -->&lt;<!-- -->header<!-- -->&gt;<!-- --> <!-- -->&lt;<!-- -->nav<!-- -->&gt;<!-- --> and <!-- -->&lt;<!-- -->footer<!-- -->&gt;<!-- --> sections. This very quickly evolved (or devolved) into what we&#x27;re looking at today.</p>]]></content>
+        <author>
+            <name>moostache</name>
+            <uri>https://moostache.io</uri>
+        </author>
     </entry>
 </feed>
