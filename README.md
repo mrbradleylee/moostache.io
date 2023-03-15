@@ -28,5 +28,5 @@ npm run build
 ### Deploy
 
 ```
-GIT_USER=<username> npm run deploy
+GIT_USER=<username> USE_SSH=true npm run deploy
 ```
