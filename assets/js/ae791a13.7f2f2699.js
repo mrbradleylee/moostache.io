@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmoostache_info=self.webpackChunkmoostache_info||[]).push([[148],{5212:function(o){o.exports=JSON.parse('{"permalink":"/moostache.io/posts/tags/smatterings","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmoostache_info=self.webpackChunkmoostache_info||[]).push([[658],{4862:function(o){o.exports=JSON.parse('{"permalink":"/moostache.io/posts/tags/animal-crossing","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

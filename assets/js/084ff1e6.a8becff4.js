@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmoostache_info=self.webpackChunkmoostache_info||[]).push([[367],{6940:function(s){s.exports=JSON.parse('{"label":"smatterings","permalink":"/moostache.io/posts/tags/smatterings","allTagsPath":"/moostache.io/posts/tags","count":4}')}}]);

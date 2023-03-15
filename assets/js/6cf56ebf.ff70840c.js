@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmoostache_info=self.webpackChunkmoostache_info||[]).push([[575],{232:function(s){s.exports=JSON.parse('{"label":"animal-crossing","permalink":"/moostache.io/posts/tags/animal-crossing","allTagsPath":"/moostache.io/posts/tags","count":1}')}}]);
